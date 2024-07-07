@@ -7,3 +7,4 @@ Nike-Web-FrontEnd-with-React-and-Tailwind
 ![n3](https://github.com/Nipun2001M/Nike-Web-FrontEnd-with-React-and-Tailwind/assets/108778265/3aa11359-a2c0-4f35-936d-9d2aa72f90cc)
 ![n4](https://github.com/Nipun2001M/Nike-Web-FrontEnd-with-React-and-Tailwind/assets/108778265/03af3207-d3ee-41dd-a5d9-bfb1e8718643)
 ![n5](https://github.com/Nipun2001M/Nike-Web-FrontEnd-with-React-and-Tailwind/assets/108778265/9ffb53b8-b3e8-4741-8dfb-cc8ccc8edcc9)
+![n6](https://github.com/Nipun2001M/Nike-Web-FrontEnd-with-React-and-Tailwind/assets/108778265/5e116ea9-179a-4bb8-a872-019489ed7b19)
